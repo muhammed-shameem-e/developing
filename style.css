@@ -1,0 +1,271 @@
+body
+{
+    margin: 0;
+}
+.page1
+{
+    position: relative;
+    height: 85.5vh;
+    width: 100%;
+    background-color: aqua;
+}
+.one img
+{
+    height: 89vh;
+}
+.two ul
+{
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    gap: 40px;
+    font-size: 25px;
+    position: absolute;
+    left: 870px;
+    top: 15px;
+    color: rgb(211, 203, 203);
+}
+.three img
+{
+    position: absolute;
+    top: 250px;
+    left: 600px;
+}
+.four h1,h2
+{
+    position: absolute;
+    top: 300px;
+    left: 450px;
+    font-size: 45px;
+    color: rgb(243, 230, 230);
+    font-weight: 500;
+    font-family: sans-serif;
+}
+.four h2
+{
+    top: 350px;
+    left: 600px;
+    font-size: 45px;
+    color: rgb(243, 233, 233);
+}
+.page2
+{
+    position: relative;
+    width: 100%;
+    height: 350px;
+}
+.five h1
+{
+    position: absolute;
+    left: 450px;
+    top: 20px;
+    font-size: 40px;
+    font-family: sans-serif;
+    font-weight: 500;
+}
+.six h1,h2,h3
+{
+    position: absolute;
+    top: 150px;
+    left: 225px;
+    font-size: 25px;
+    color: rgb(138, 131, 131);
+    font-weight: 500;
+    font-family: sans-serif;
+}
+.six h2
+{
+    left: 232px;
+    top: 180px;
+}
+.six h3
+{
+    left: 530px;
+    top: 210px;
+}
+.page3
+{
+    position: relative;
+    width: 100%;
+    height: 385vh;
+    display:flex;
+    justify-content:center;
+}
+.seven
+{
+    width: 30%;
+    display:flex;
+    flex-direction: column;
+}
+.eight
+{
+    width: 30%;
+    display:flex;
+    flex-direction: column;
+}
+.nine
+{
+    width: 30%;
+    display:flex;
+    flex-direction: column;
+}
+.seven button
+{
+    margin-left: 80px;
+    width: 350px;
+    padding: 15px;
+    border-radius: 7px;
+    margin-top: 23px;
+    font-size: 20px;
+    height: 70px;
+    font-family: sans-serif;
+    background-color: white;
+    border: 1px solid rgb(207, 201, 201);
+    color: rgb(97, 91, 91);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.eight button
+{
+    margin-left: 50px;
+    width: 350px;
+    padding: 15px;
+    border-radius: 7px;
+    margin-top: 23px;
+    font-size: 20px;
+    height: 70px;
+    font-family: sans-serif;
+    background-color: white;
+    border: 1px solid rgb(207, 201, 201);
+    color: rgb(97, 91, 91);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.nine button
+{
+    margin-left: 20px;
+    width: 350px;
+    padding: 15px;
+    border-radius: 7px;
+    margin-top: 23px;
+    font-size: 20px;
+    height: 70px;
+    font-family: sans-serif;
+    background-color: white;
+    border: 1px solid rgb(207, 201, 201);
+    color: rgb(97, 91, 91);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.page4
+{
+    position: relative;
+    width: 100%;
+    height: 400px;
+    background-color:rgb(240, 234, 234);
+}
+.ten img
+{
+    position: absolute;
+    top: 50px;
+    left: 150px;
+}
+.ten ul
+{
+    display: flex;
+    flex-direction: row;
+    gap: 25px;
+    list-style: none;
+    position: absolute;
+    top: 25px;
+    left: 1000px;
+}
+.ten select
+{
+    padding: 5px;
+    height: 50px;
+    width: 140px;
+    border: 1px solid rgb(175, 170, 170);
+    border-radius: 7px;
+    font-size: 20px;
+    color: rgb(73, 69, 69);;
+    background-color: rgb(240, 234, 234);;
+}
+.eleven ul
+{
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    gap: 145px;
+    position: absolute;
+    left: 1070px;
+    top: 40px;
+}
+.twelve ul
+{
+    list-style: none;
+    color: rgb(128, 119, 119);
+}
+.thirteen
+{
+    position: absolute;
+    top: 100px;
+    left: 120px;
+    line-height: 1.8;
+}
+.fourteen
+{
+    position: absolute;
+    top: 100px;
+    left: 350px;
+    line-height: 1.8;
+}
+.fifteen
+{
+    position: absolute;
+    top: 100px;
+    left: 550px;
+    line-height: 1.8;
+}
+.sixteen
+{
+    position: absolute;
+    top: 100px;
+    left: 850px;
+    line-height: 1.8;
+}
+.seventeen
+{
+    position: absolute;
+    top: 95px;
+    left: 1100px;
+    line-height: 2.5;
+}
+.eighteen
+{
+    font-size: 20px;
+    color: black;
+}
+.page5 
+{
+    position: relative;
+    width: 100%;
+    height: 100px;
+    border-top: rgb(197, 188, 188);
+    background-color:rgb(240, 234, 234);
+}
+.nineteen p
+{
+    position: absolute;
+    top: 20px;
+    margin: 0;
+    left: 160px;
+}
+#list1
+{
+    top: 42.5px;
+}
+
